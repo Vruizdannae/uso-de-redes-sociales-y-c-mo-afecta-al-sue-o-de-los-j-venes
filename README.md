@@ -6,6 +6,6 @@ DETERMINA LOS ELEMENTOS DEL ANALISIS DE DATOS PARA PODER DAR RESPUESTA:
 -Edad-Género(para ver diferiencias entre grupos).
 -Rendimiento escolar(para ver si también afectan sus calificaciones).
 -Estado de ánimo durante el día(cansancio,estres,concentración).
-OBJETIVO:Es descubrir si el tiempo que pasan los jovenes en redes sociales los estudiantes se relacionan
+OBJETIVO:Descubrir si el tiempo que pasan los jovenes en redes sociales los estudiantes se relacionan
 con las horas que duermen.Con estos datos se puede armar una comparación y mostrar quienes usan más de 4 horas
 redes sociales duermen menos que quienes usan 2 horas (o menos).
