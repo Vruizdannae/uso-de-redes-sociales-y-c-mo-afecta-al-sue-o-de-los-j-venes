@@ -13,7 +13,9 @@ Redes sociales.
  -Rendimiento escolar de los jovenes de preparatoria(para ver si también afectan sus calificaciones).
  -Estado de ánimo durante el horario de clases de los jovenes(cansancio,estres,concentración).
 
- ## FUENTES DE INFORMACIÓN:
+## FUENTES DE INFORMACIÓN:
+ -https://www.cienciayeducacion.com/index.php/journal/article/view/163
+ 
  
  
 ## OBJETIVO:
