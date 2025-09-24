@@ -18,6 +18,6 @@ Redes sociales.
  
 ## OBJETIVO:
 
-Descubrir si el tiempo que pasan los jovenes en redes sociales los estudiantes se relacionan
-con las horas que duermen.Con estos datos se puede armar una comparación y mostrar quienes usan más de 4 horas
+Descubrir si el tiempo que pasan los jovenes en redes sociales se relacionan
+con las horas que duermen.Con estos datos se puede armar una comparación y mostrar que quienes usan más de 4 horas
 redes sociales duermen menos que quienes usan 2 horas (o menos).
