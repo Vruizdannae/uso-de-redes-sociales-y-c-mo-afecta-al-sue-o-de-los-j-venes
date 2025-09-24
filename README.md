@@ -7,16 +7,16 @@ Redes sociales.
 ¿El tiempo en redes sociales influye en las horas de sueño de los estudiantes de preparatoria?
 
 ## LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA:
- -Horas diarias que pasan los jovenes en redes sociales(Instagram,TikTok,Facebook,etc.).
- -Horas de sueño por noche de los jovenes de preparatoria.
- -Edad-Género de los jovenes de preparatoria(para ver diferiencias entre grupos).
- -Rendimiento escolar de los jovenes de preparatoria(para ver si también afectan sus calificaciones).
- -Estado de ánimo durante el horario de clases de los jovenes(cansancio,estres,concentración).
+ - Horas diarias que pasan los jovenes en redes sociales(Instagram,TikTok,Facebook,etc.).
+ - Horas de sueño por noche de los jovenes de preparatoria.
+ - Edad-Género de los jovenes de preparatoria(para ver diferiencias entre grupos).
+ - Rendimiento escolar de los jovenes de preparatoria(para ver si también afectan sus calificaciones).
+ - Estado de ánimo durante el horario de clases de los jovenes(cansancio,estres,concentración).
 
 ## FUENTES DE INFORMACIÓN:
- -https://www.cienciayeducacion.com/index.php/journal/article/view/163
- -https://www.capi.com.mx/blog/bienestar-individual-salud-mental-emocional/sueno-y-redes-sociales-en-el-desarrollo-de-los-adolescentes.php
- -https://socialharms.utah.gov/spanish/como-afectan-las-redes-sociales-al-sueno/
+ - https://www.cienciayeducacion.com/index.php/journal/article/view/163
+ - https://www.capi.com.mx/blog/bienestar-individual-salud-mental-emocional/sueno-y-redes-sociales-en-el-desarrollo-de-los-adolescentes.php
+ - https://socialharms.utah.gov/spanish/como-afectan-las-redes-sociales-al-sueno/
  
  
  
