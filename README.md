@@ -18,8 +18,6 @@ Redes sociales.
  - https://www.capi.com.mx/blog/bienestar-individual-salud-mental-emocional/sueno-y-redes-sociales-en-el-desarrollo-de-los-adolescentes.php
  - https://socialharms.utah.gov/spanish/como-afectan-las-redes-sociales-al-sueno/
  
- 
- 
 ## OBJETIVO:
 
 Descubrir si el tiempo que pasan los jovenes en redes sociales se relacionan
