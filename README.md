@@ -1,12 +1,12 @@
 # uso-de-redes-sociales-y-como-afecta-al-sueño-de-los-jovenes
-<p align="center">
- <img src="
+<img width="1152" height="601" alt="image" src="https://github.com/user-attachments/assets/b42a5dec-c0eb-48b6-b27e-026a201408e5" />
+
 ## TEMA: 
 
 Redes sociales.
 
 ## PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
-¿El tiempo en redes sociales influye en las horas de sueño de los estudiantes de preparatoria?
+¿El tiempoinvertido en redes sociales influye en las horas de sueño de los estudiantes de preparatoria?
 
 ## LOS ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA:
  - Horas diarias que pasan los jovenes en redes sociales(Instagram,TikTok,Facebook,etc.).
