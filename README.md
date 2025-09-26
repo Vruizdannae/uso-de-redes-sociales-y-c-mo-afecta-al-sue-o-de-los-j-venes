@@ -1,4 +1,5 @@
 # uso-de-redes-sociales-y-como-afecta-al-sueño-de-los-jovenes
+<p align="center">
 <img width="1152" height="601" alt="image" src="https://github.com/user-attachments/assets/b42a5dec-c0eb-48b6-b27e-026a201408e5" />
 
 ## TEMA: 
